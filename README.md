@@ -1,6 +1,6 @@
 # NFTHack
 
-The plan was to create a simple game where players could earn components for spaceships and combine them to form NFTs. The plan was to use the Moralis Unity SDK to interact with the blockchain (would have tried Polygon, but I never got that far).
+The plan was to create a simple game where players could earn components for spaceships and combine them to form NFTs. I would do this with the Moralis Unity SDK to interact with the blockchain (would have tried Polygon, but I never got that far).
 
 ### What I got done during the hackathon
 
